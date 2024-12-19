@@ -42,20 +42,6 @@ Overall, the FloraMood Smart Pot combines technology and plant care to create an
 <!-- ![3D Schematic](./obj.mtl)
 ![3D Schematic in TinkerCad](./tinker.obj) -->
 
-## Log
-
-<!-- write every week your progress here -->
-
-### Week 6 - 12 May
-In this week I searched for the remaining components and draw the schematics. The schematic contains all the necessary components for the system and the connections between them. I purchased the pot, cut for placing the display inside it and fixing on the pot's wall. 
-Also, I searched what each component needs to function properly, to ensure that the connections will be fine and none of them will be distroyed when I make the actual connections. This was very useful and helped me in the understanding of their working process. 
-
-### Week 7 - 19 May
-I made the connections between the sensors and the Raspberry Pi Pico and placed all the wires properly. I created a general view of the entire system and made the ajustations to look good. I put the sensors in thier final place and tried to hide the wires as much as possible.
-I discovered how the water pump should be modified in order to be controlled from the Pico and based on humidity sensor. I made a part of the necessary modification into its internal part, but still needs to be linked to a relay module. 
-
-### Week 20 - 26 May
-
 ## Hardware
 
 The main hardware components are the Raspberry Pi Pico and the sensors. The Raspberry Pi Pico is designed for low power consumption, assuring a better approach into the efficiency of the system. It also offers flexibility and versatility for interfacing with various sensors, actuators, and peripherals. The capacitive soil moisture sensor is used for detecting the soil moisture levels, utilizing capacitive sensing. Its resistance to corrosion is due to its construction material, ensuring an extended lifespan. The temperature sensor is sensing the temperature and the LDR module is used for detecting the intensity of light. 
@@ -70,6 +56,11 @@ Here are the connections with the sensors and the placement inside and outside t
 ![Photo2 photo](./Picture3.jpg)
 
 ![Photo3 photo](./Picture4.jpg)
+
+This is the final view of the FloraMood smart pot.
+![Photo4 photo](./Picture5.png)
+
+![Photo5 photo](./Picture6.jpg)
 
 ### Building the project
 First you have to take a pot, can be a normal one or a pot printed 3D. You have to cut it in order to place the display and the sensors. The light sensor is on the top part of the pot. The temperature sensor is on the breadboard, because I cannot find an appropriate way to put it on the pot. The soil humidity sensor in on the soil, inside the pot. Separately, I have a breadboard, where I put the Raspberry Pi Pico W and the temperature sensor. 
