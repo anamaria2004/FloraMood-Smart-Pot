@@ -2,7 +2,7 @@
 A smart emotional pot with automated watering system
 :::info 
 
-**Author**: Ana-Maria Comeaga \
+**Author**: Ana-Maria Comeaga 
 
 :::
 
