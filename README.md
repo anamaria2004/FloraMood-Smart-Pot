@@ -58,6 +58,7 @@ Here are the connections with the sensors and the placement inside and outside t
 ![Photo3 photo](./Picture4.jpg)
 
 This is the final view of the FloraMood smart pot.
+
 ![Photo4 photo](./Picture5.png)
 
 ![Photo5 photo](./Picture6.jpg)
